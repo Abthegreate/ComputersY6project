@@ -33,10 +33,6 @@ if ans.lower() == 'yes':
         print ( 'Correct' )
     else:
         print ( 'Incorrect' )
-
-
-
-
 print('Thank you for playing!')
 print('You got', score,'questions correct')
 mark = (score/total_q) * 100
