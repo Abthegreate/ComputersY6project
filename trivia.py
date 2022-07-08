@@ -28,7 +28,7 @@ if ans.lower() == 'yes':
         print ( 'Incorrect' )
 
     ans = input ( '4.How much market share does python own ?' )
-    if ans.lower ( ) == '48.24%':
+    if ans.lower ( ) == '48.07%':
         score += 1
         print ( 'Correct' )
     else:
